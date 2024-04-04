@@ -49,10 +49,6 @@ public class Main {
             System.out.println("You got FF and failed exam..");
         }
 
-
-        
-        
-        
     }
     
 }
